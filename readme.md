@@ -9,7 +9,7 @@ This repository contains the source code and assets for my personal website, whi
 The following technologies were used to develop this website:
 
 - HTML5
-- CSS3
+- CSS2
 
 
 ## Contact
